@@ -1,0 +1,67 @@
+#header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7vh;
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+
+}
+body{
+    background-color: #22177A;
+}
+.image{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    gap:500px;
+}
+#bottom{
+    text-align: center;
+    color: #605EA1;
+    font-size: 32px;
+
+}
+#bame{
+    height: 503px;
+    width: 500px;
+    display: flex;
+    margin-bottom: 40px;
+}
+h2{
+    color:#605EA1;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+    color: #605EA1;
+    gap:300px;
+}
+#jordan{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    margin-bottom: 50px; /
+    
+}
+#contact{
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 200px; /* Adjust this value to increase the gap */
+}
+#contactme{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+}
